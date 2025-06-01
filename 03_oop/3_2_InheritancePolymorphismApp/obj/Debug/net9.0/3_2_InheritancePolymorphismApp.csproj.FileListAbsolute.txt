@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\bin\Debug\net9.0\3_2_InheritancePolymorphismApp.exe
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\bin\Debug\net9.0\3_2_InheritancePolymorphismApp.deps.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\bin\Debug\net9.0\3_2_InheritancePolymorphismApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\bin\Debug\net9.0\3_2_InheritancePolymorphismApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\bin\Debug\net9.0\3_2_InheritancePolymorphismApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\refint\3_2_InheritancePolymorphismApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\3_2_InheritancePolymorphismApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_2_InheritancePolymorphismApp\obj\Debug\net9.0\ref\3_2_InheritancePolymorphismApp.dll

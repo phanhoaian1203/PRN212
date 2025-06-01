@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\bin\Debug\net9.0\BoxingUnboxingApp.exe
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\bin\Debug\net9.0\BoxingUnboxingApp.deps.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\bin\Debug\net9.0\BoxingUnboxingApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\bin\Debug\net9.0\BoxingUnboxingApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\bin\Debug\net9.0\BoxingUnboxingApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\refint\BoxingUnboxingApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\BoxingUnboxingApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\BoxingUnboxingApp\obj\Debug\net9.0\ref\BoxingUnboxingApp.dll

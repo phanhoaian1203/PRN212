@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\bin\Debug\net9.0\3_1_ClassesPropertiesApp.exe
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\bin\Debug\net9.0\3_1_ClassesPropertiesApp.deps.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\bin\Debug\net9.0\3_1_ClassesPropertiesApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\bin\Debug\net9.0\3_1_ClassesPropertiesApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\bin\Debug\net9.0\3_1_ClassesPropertiesApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\refint\3_1_ClassesPropertiesApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\3_1_ClassesPropertiesApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\3_1_ClassesPropertiesApp\obj\Debug\net9.0\ref\3_1_ClassesPropertiesApp.dll

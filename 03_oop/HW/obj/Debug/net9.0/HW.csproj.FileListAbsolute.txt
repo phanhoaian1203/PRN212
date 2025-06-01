@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\bin\Debug\net9.0\HW.exe
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\bin\Debug\net9.0\HW.deps.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\bin\Debug\net9.0\HW.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\bin\Debug\net9.0\HW.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\bin\Debug\net9.0\HW.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\refint\HW.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\HW.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\03_oop\HW\obj\Debug\net9.0\ref\HW.dll

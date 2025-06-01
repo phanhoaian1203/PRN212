@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\bin\Debug\net9.0\4_1_GenericClassApp.exe
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\bin\Debug\net9.0\4_1_GenericClassApp.deps.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\bin\Debug\net9.0\4_1_GenericClassApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\bin\Debug\net9.0\4_1_GenericClassApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\bin\Debug\net9.0\4_1_GenericClassApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.sourcelink.json
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\refint\4_1_GenericClassApp.dll
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.pdb
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\4_1_GenericClassApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Máy tính\PRN111\04_collections_generics\4_1_GenericClassApp\obj\Debug\net9.0\ref\4_1_GenericClassApp.dll
