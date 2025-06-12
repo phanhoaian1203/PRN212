@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\bin\Debug\net9.0\6_3_AnonymousGenericDelegateApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\bin\Debug\net9.0\6_3_AnonymousGenericDelegateApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\bin\Debug\net9.0\6_3_AnonymousGenericDelegateApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\bin\Debug\net9.0\6_3_AnonymousGenericDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\bin\Debug\net9.0\6_3_AnonymousGenericDelegateApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\refint\6_3_AnonymousGenericDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\6_3_AnonymousGenericDelegateApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_3_AnonymousGenericDelegateApp\obj\Debug\net9.0\ref\6_3_AnonymousGenericDelegateApp.dll

@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\bin\Debug\net9.0\HW2.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\bin\Debug\net9.0\HW2.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\bin\Debug\net9.0\HW2.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\bin\Debug\net9.0\HW2.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\bin\Debug\net9.0\HW2.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\refint\HW2.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\HW2.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\HW2\obj\Debug\net9.0\ref\HW2.dll

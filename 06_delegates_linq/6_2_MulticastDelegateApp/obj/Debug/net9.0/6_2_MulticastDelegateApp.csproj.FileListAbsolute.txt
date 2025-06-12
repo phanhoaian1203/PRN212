@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\bin\Debug\net9.0\6_2_MulticastDelegateApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\bin\Debug\net9.0\6_2_MulticastDelegateApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\bin\Debug\net9.0\6_2_MulticastDelegateApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\bin\Debug\net9.0\6_2_MulticastDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\bin\Debug\net9.0\6_2_MulticastDelegateApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\refint\6_2_MulticastDelegateApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\6_2_MulticastDelegateApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_2_MulticastDelegateApp\obj\Debug\net9.0\ref\6_2_MulticastDelegateApp.dll

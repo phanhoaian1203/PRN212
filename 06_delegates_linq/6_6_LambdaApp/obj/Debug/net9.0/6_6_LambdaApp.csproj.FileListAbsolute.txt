@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\bin\Debug\net9.0\6_6_LambdaApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\bin\Debug\net9.0\6_6_LambdaApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\bin\Debug\net9.0\6_6_LambdaApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\bin\Debug\net9.0\6_6_LambdaApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\bin\Debug\net9.0\6_6_LambdaApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\refint\6_6_LambdaApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\6_6_LambdaApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_6_LambdaApp\obj\Debug\net9.0\ref\6_6_LambdaApp.dll

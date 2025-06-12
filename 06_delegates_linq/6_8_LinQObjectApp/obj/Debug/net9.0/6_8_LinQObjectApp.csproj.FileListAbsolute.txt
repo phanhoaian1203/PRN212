@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\bin\Debug\net9.0\6_8_LinQObjectApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\bin\Debug\net9.0\6_8_LinQObjectApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\bin\Debug\net9.0\6_8_LinQObjectApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\bin\Debug\net9.0\6_8_LinQObjectApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\bin\Debug\net9.0\6_8_LinQObjectApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\refint\6_8_LinQObjectApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\6_8_LinQObjectApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_8_LinQObjectApp\obj\Debug\net9.0\ref\6_8_LinQObjectApp.dll

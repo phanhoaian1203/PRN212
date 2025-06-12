@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\bin\Debug\net9.0\6_7_LinQQueryApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\bin\Debug\net9.0\6_7_LinQQueryApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\bin\Debug\net9.0\6_7_LinQQueryApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\bin\Debug\net9.0\6_7_LinQQueryApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\bin\Debug\net9.0\6_7_LinQQueryApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\refint\6_7_LinQQueryApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\6_7_LinQQueryApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_7_LinQQueryApp\obj\Debug\net9.0\ref\6_7_LinQQueryApp.dll

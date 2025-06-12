@@ -1,0 +1,15 @@
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\bin\Debug\net9.0\6_5_EventApp.exe
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\bin\Debug\net9.0\6_5_EventApp.deps.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\bin\Debug\net9.0\6_5_EventApp.runtimeconfig.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\bin\Debug\net9.0\6_5_EventApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\bin\Debug\net9.0\6_5_EventApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.AssemblyInfoInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.AssemblyInfo.cs
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.csproj.CoreCompileInputs.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.sourcelink.json
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\refint\6_5_EventApp.dll
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.pdb
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\6_5_EventApp.genruntimeconfig.cache
+D:\Ky 5\PRN212\PRN212_Main\06_delegates_linq\6_5_EventApp\obj\Debug\net9.0\ref\6_5_EventApp.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ky 5\\PRN212\\PRN212_Mainn\\01_intro\\HW3\\HW3.csproj",
+      "projectUniqueName": "D:\\Ky 5\\PRN212\\PRN212_Main\\01_intro\\HW3\\HW3.csproj",
       "projectName": "HW3",
-      "projectPath": "D:\\Ky 5\\PRN212\\PRN212_Mainn\\01_intro\\HW3\\HW3.csproj",
+      "projectPath": "D:\\Ky 5\\PRN212\\PRN212_Main\\01_intro\\HW3\\HW3.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Ky 5\\PRN212\\PRN212_Mainn\\01_intro\\HW3\\obj\\",
+      "outputPath": "D:\\Ky 5\\PRN212\\PRN212_Main\\01_intro\\HW3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
